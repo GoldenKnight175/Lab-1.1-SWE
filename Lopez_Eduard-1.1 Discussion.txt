@@ -1,0 +1,32 @@
+1) https://github.com/flutter/flutter 
+	
+	This seems like a very interesting take on coding since it allows you to
+	run the system without having to rebuild or do anythign extra so you don't
+	lose your place. It allows you to control almost everything you would need to 
+	with quite relative ease, while giving feedback on how it runs. 
+
+2) https://github.com/blueedgetechno/win11React
+
+	I found this one quite interesting since it was a project I found that
+	was advertising it's capabilities to replicate Windows 11 on the web,
+	using somethings like CSS (SCSS), JS and React.
+
+3) https://github.com/nocodb/nocodb
+	
+	This is quite interesting for me since it seems to make spreasheets
+	a lot more understandable and smooth. This seems like the perfect 
+	application for creating a more organized system without spending more 
+	time understanding the confusing side. 
+
+4) https://github.com/forem/selfhost
+
+	This project has been founded in order to give many people the opportunity 
+	to create their own free community, this can be quite complex and it is 
+	almost 100% required to have backgrounds in Python 3 and other such languages and programs.
+
+5) https://github.com/mvt-project/mvt
+
+	The concept behind this one spoke to me, since I love Cyber security. I loved seeing that 
+	it was focused on collecting and simplifying the proccess of gathering forensic information 
+	that would later help down the line when it comes to identifying a device that has been
+	compromised. 
